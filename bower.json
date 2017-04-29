@@ -1,0 +1,10 @@
+{
+    "name": "ToDoApp",
+    "version": "1.0.0",
+    "dependencies": {
+        "angular":"latest",
+        "angular-ui-router": "latest",
+        "Font-Awesome": "latest"
+
+    }
+}
